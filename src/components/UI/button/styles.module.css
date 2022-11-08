@@ -1,0 +1,22 @@
+
+button {
+  height: fit-content;
+  padding: 0 1.6rem;
+  font-weight: 600;
+  font-size: 300%;
+  background-color: #fff;
+  border: .1rem solid cyan;
+  border-radius: .5rem;
+  cursor: pointer;   
+
+}
+
+button:hover {
+    background-color: lightgray;
+
+  }
+button:active {
+    color:#fff;
+    background-color:cyan;
+
+  }

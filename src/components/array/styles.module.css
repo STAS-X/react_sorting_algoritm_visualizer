@@ -1,0 +1,19 @@
+.array {
+  height: 65rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.title {
+  height: 6rem;
+  width: 30%;
+  margin: -50px auto 50px;
+  font-size: 3rem;
+  color:darkgrey;
+  display: flex;
+  justify-content: flex-start;
+
+  
+}
